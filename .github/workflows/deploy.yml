@@ -32,6 +32,8 @@ jobs:
 
       - name: Build
         working-directory: apps/web/self-specialize-website
+        env:
+          NEXT_PUBLIC_BASE_PATH: /specialize
         run: npm run build
 
       - uses: actions/upload-pages-artifact@v3
