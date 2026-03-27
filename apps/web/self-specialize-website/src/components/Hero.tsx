@@ -41,7 +41,7 @@ export function Hero() {
                 Self-Specialize Your Agents turns scattered projects, habits, and prior agent work into portable context packages that travel across tools and improve alignment with less repetition.
               </p>
               <div className="mt-10 flex flex-col gap-4 sm:flex-row">
-                <a href="#waitlist" className="button-primary">
+                <a href="https://forms.gle/3bijawiAzZZwp8Dz9" target="_blank" rel="noopener noreferrer" className="button-primary">
                   Get early access
                 </a>
                 <a href="#how-it-works" className="button-secondary">

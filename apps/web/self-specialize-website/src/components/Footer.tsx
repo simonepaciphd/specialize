@@ -17,7 +17,7 @@ export function Footer() {
                 </p>
               </div>
               <div className="flex flex-col gap-3 sm:flex-row md:flex-col lg:flex-row">
-                <a href="#waitlist" className="button-primary">
+                <a href="https://forms.gle/3bijawiAzZZwp8Dz9" target="_blank" rel="noopener noreferrer" className="button-primary">
                   Get early access
                 </a>
                 <a href="#" className="button-secondary">
